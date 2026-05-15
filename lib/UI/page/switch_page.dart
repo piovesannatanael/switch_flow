@@ -202,7 +202,7 @@ class _SwitchPageState extends State<SwitchPage>{
                     Navigator.pop(dialogContext);
                   },
                    child: Text(
-                    device == null ? 'Conectar' : 'Cancelar',
+                    device == null ? 'Conectar' : 'Reconectar',
                    ),
                    ),
             ],
