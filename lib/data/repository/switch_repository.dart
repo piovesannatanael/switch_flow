@@ -1,5 +1,5 @@
 
-import '../model/switch.dart';
+import '../model/switch_device.dart';
 import '../service/switch_service.dart';
 
 

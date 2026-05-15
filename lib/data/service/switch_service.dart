@@ -1,4 +1,4 @@
-import '../model/switch.dart';
+import '../model/switch_device.dart';
 
 class SwitchService {
   final List<SwitchDevice> _connections = [];

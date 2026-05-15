@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../../data/model/switch.dart';
+import '../../data/model/switch_device.dart';
 import '../../data/repository/switch_repository.dart';
 
 
@@ -40,7 +40,7 @@ class SwitchController extends ChangeNotifier{
             carregarConnections();
     }
 
-    void atualizarSwitch({
+    void atualizarConnection({
         required String id,
         required String nome,
         required String ip,
