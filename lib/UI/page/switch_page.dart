@@ -1,7 +1,7 @@
 import 'package:provider/provider.dart';
 import 'package:flutter/material.dart';
-import 'package:switchflow/UI/controller/switch_controller.dart';
-import 'package:switchflow/data/model/switch_device.dart';
+import 'package:switch_flow/UI/controller/switch_controller.dart';
+import 'package:switch_flow/data/model/switch_device.dart';
 import 'package:mask_text_input_formatter/mask_text_input_formatter.dart';
 
 class SwitchPage extends StatefulWidget{
